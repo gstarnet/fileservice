@@ -1,0 +1,9 @@
+logging:
+  level:
+    org:
+      cloudbreeze:
+        fileservice: DEBUG
+    root: INFO
+spring:
+  profiles:
+    active: default
